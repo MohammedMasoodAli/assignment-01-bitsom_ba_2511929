@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Electronics",
+    "name": "Laptop",
+    "price": 65000,
+    "brand": "Dell",
+    "specs": {
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "processor": "Intel i7"
+    }
+  },
+  {
+    "category": "Clothing",
+    "name": "T-Shirt",
+    "price": 1200,
+    "brand": "Nike",
+    "sizes": ["M", "L", "XL"],
+    "material": "Cotton"
+  },
+  {
+    "category": "Groceries",
+    "name": "Milk",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "protein": "3.4g",
+      "fat": "3.2g"
+    }
+  }
+]
